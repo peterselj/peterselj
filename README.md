@@ -25,3 +25,7 @@ adds a visual highlight ring to Doodle Board icons.
 **[Party Invite](https://peterselj.github.io/invite/)** — a bespoke Mad Libs–style RSVP for the same
 big, dumb birthday party I've thrown every year for a decade. Used to run it on Typeform until their
 pricing got insufferable, so I built my own.
+
+**[Word Search Generator](https://github.com/peterselj/word-search-generator)** — a themed word-search
+puzzle generator that exports VR-ready PNGs, built to keep Doodle Board's monthly in-headset content
+fresh without a design pass each time.
