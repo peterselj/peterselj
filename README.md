@@ -21,3 +21,7 @@ Showdown, built with my brother to bring a physical card game online with shared
 
 **[Icon Highlighter](https://github.com/peterselj/iconhighlighter)** — a small, shipped utility that
 adds a visual highlight ring to Doodle Board icons.
+
+**[Party Invite](https://peterselj.github.io/invite/)** — a bespoke Mad Libs–style RSVP for the same
+big, dumb birthday party I've thrown every year for a decade. Used to run it on Typeform until their
+pricing got insufferable, so I built my own.
