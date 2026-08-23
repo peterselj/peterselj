@@ -10,7 +10,7 @@ Designed by Maui (VR) | Mutual Friend Productions (theatre) | [joshpetersel.com]
 
 **[JobBoard](https://github.com/peterselj/JobBoard)** — a referral-first job-search CRM that treats
 the job hunt as a weighted sales pipeline: it quantifies expected offers, prioritizes daily actions,
-and keeps personal data private in-browser. [Live demo](https://peterselj.github.io/JobBoard/)
+and keeps personal data private in-browser, used for my coaching clients. [Live demo](https://peterselj.github.io/JobBoard/)
 
 **[DraftBoard](https://github.com/peterselj/DraftBoard)** — a live fantasy-auction decision tool that
 separates intrinsic player value from market pricing, then adjusts recommendations for budget
